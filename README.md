@@ -19,10 +19,11 @@ end the program
 #Program to find the inverse of a matrix.
 #Developed by:Karthick Raja K 
 #RegisterNumber:23006120
-import numpy as np
+```import numpy as np
 a=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 rank=np.linalg.inv(a)
 print(rank)
+```
 ## Output:
 ![output](/Screenshot%202023-07-25%20185522.png)
 ## Result:
